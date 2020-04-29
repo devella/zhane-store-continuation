@@ -10,19 +10,19 @@ class Directory extends React.Component {
             sections: [
                 {
                   title: 'hats',
-                  imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+                  imageUrl: 'https://www.hatsandcaps.co.uk/images/products/large/202584.jpg',
                   id: 1,
                   linkUrl: 'hats'
                 },
                 {
                   title: 'jackets',
-                  imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
+                  imageUrl: 'https://www.flare.com/wp-content/uploads/2017/10/INLINE_MonctonJackets.jpg',
                   id: 2,
                   linkUrl: 'shop/jackets'
                 },
                 {
                   title: 'sneakers',
-                  imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
+                  imageUrl: 'https://media.gq.com/photos/5c5db3311407441537b1aa66/16:9/w_2560%2Cc_limit/Footlocker-Sneaker-Resale-GQ-02082019_3x2.jpg',
                   id: 3,
                   linkUrl: 'shop/sneakers'
                 },
