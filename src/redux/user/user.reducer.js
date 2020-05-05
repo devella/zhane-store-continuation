@@ -8,10 +8,10 @@ const userReducer = (state = INITIAL_STATE, action) => {
         case 'SET_CURRENT_USER':
             return {
                ...state, currentUser: action.paylaod
-            }
+            };
         default:
             return state;
     }
-}
+};
 
 export default userReducer;
