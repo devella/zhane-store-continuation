@@ -1,17 +1,21 @@
+import { UserConstant } from './user.constant'
+
 const INITIAL_STATE = {
     currentUser: null
-}
-
-
-const userReducer = (state = INITIAL_STATE, action) => {
+  };
+  
+  const userReducer = (state = INITIAL_STATE, action) => {
     switch (action.type) {
-        case 'SET_CURRENT_USER':
-            return {
-               ...state, currentUser: action.paylaod
-            };
-        default:
-            return state;
+      case UserConstant.SET_CURRENT_USER:
+        return {
+          ...state,
+          currentUser: 
+          
+          action.payload
+        };
+      default:
+        return state;
     }
-};
-
-export default userReducer;
+  };
+  
+  export default userReducer;
