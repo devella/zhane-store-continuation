@@ -9,9 +9,7 @@ const INITIAL_STATE = {
       case UserConstant.SET_CURRENT_USER:
         return {
           ...state,
-          currentUser: 
-          
-          action.payload
+          currentUser: action.payload
         };
       default:
         return state;
