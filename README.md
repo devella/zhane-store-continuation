@@ -4,12 +4,16 @@ Description:
 An Ecommerce website showing products and product-details.
 
 ## Technologies used:
-#• Reactjs
-#• SCSS
-#• Redux
-#• Hook
-#• ContextAP
-#• Stripe
+
+
+- On Reactjs.
+- On SCSS.
+• Reactjs
+• SCSS
+• Redux
+• Hook
+• ContextAP
+• Stripe
 
 
 ## Features
