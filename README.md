@@ -1,26 +1,23 @@
 ## Ecommerce website using Reactjs.
 
-Description:
+## Description:
 An Ecommerce website showing products and product-details.
 
 ## Technologies used:
 
-
 - On Reactjs.
 - On SCSS.
-• Reactjs
-• SCSS
-• Redux
-• Hook
-• ContextAP
-• Stripe
+- On Redux
+- On Hook
+- On ContextAP
+- OnStripe
 
 
 ## Features
-• Firebase authentication
-• Firebase auth provider authentication
+- On Firebase authentication
+- OnFirebase auth provider authentication
 
 ## Product Listing.
-• Integrated Redux for state management.
+- OnIntegrated Redux for state management.
 
 
