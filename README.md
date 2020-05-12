@@ -7,10 +7,10 @@ An Ecommerce website showing products and product-details.
 
 - On Reactjs.
 - On SCSS.
-- On Redux
-- On Hook
-- On ContextAP
-- OnStripe
+- On Redux.
+- On Hook.
+- On ContextAP.
+- On Stripe.
 
 
 ## Features
@@ -18,6 +18,6 @@ An Ecommerce website showing products and product-details.
 - OnFirebase auth provider authentication
 
 ## Product Listing.
-- OnIntegrated Redux for state management.
+- On Integrated Redux for state management.
 
 
