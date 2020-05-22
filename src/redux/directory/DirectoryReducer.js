@@ -20,14 +20,14 @@ const INITIAL_STATE = {
         },
         {
           title: 'womens',
-          imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+          imageUrl: 'https://www.dhresource.com/0x0/f2/albu/g8/M00/88/19/rBVaVFwA1AeAT0QBAAcKnqCtwkc019.jpg',
           size: 'large',
           id: 4,
           linkUrl: 'shop/womens'
         },
         {
           title: 'mens',
-          imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+          imageUrl: 'https://guycounseling.com/wp-content/uploads/2018/09/jessee-m.jpg',
           size: 'large',
           id: 5,
           linkUrl: 'shop/mens'
