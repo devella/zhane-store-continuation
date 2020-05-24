@@ -1,4 +1,9 @@
 ## Ecommerce website using Reactjs.
+<h2 align="center">
+  <img src="../src/app-image/firstimage.png" alt="Look" width="600px" />
+  <br>
+</h2>
+
 
 ## Description:
 An Ecommerce website showing products and product-details.
